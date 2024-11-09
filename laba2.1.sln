@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laba2.1", "laba2.1\laba2.1.csproj", "{52883608-2F57-4EBC-8FAA-9770534313CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPMatrix", "TestPMatrix\TestPMatrix.csproj", "{5D900680-4A2D-40E2-BC77-37B83A1D3348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52883608-2F57-4EBC-8FAA-9770534313CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52883608-2F57-4EBC-8FAA-9770534313CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52883608-2F57-4EBC-8FAA-9770534313CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52883608-2F57-4EBC-8FAA-9770534313CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D900680-4A2D-40E2-BC77-37B83A1D3348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D900680-4A2D-40E2-BC77-37B83A1D3348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D900680-4A2D-40E2-BC77-37B83A1D3348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D900680-4A2D-40E2-BC77-37B83A1D3348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798236A7-6687-4317-8D04-2B2A64955081}
+	EndGlobalSection
+EndGlobal
